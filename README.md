@@ -3,8 +3,8 @@ This project is a Diwali-themed event website, showcasing festive elements and i
 
 🌟 Features
 ✔️ Beautiful Diwali-themed UI with festive colours and animations
-✔️ Countdown Timer for the event launch
-✔️ Interactive elements like light effects and fireworks
+✔️ Form to contact the event organiser
+✔️ Map to show the location
 ✔️ Responsive design for all devices
 
 🛠 Technologies Used
